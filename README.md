@@ -12,6 +12,13 @@ The game was presented at the National University tech fiesta.
 | --- | --- | --- |
 | ![Main menu](docs/screenshots/main-menu.png) | ![Gameplay](docs/screenshots/gameplay.png) | ![Game over](docs/screenshots/game-over.png) |
 
+## Download
+
+Get the latest build from the [Releases page](https://github.com/ChrstphrAnglo/fruit-merge-game/releases/latest):
+
+- **Desktop:** `FruitMerge-1.0.0.jar`, run with `java -jar FruitMerge-1.0.0.jar` (Java 17 or newer)
+- **Android:** `FruitMerge-1.0.0.apk`, open it on your phone and allow "install unknown apps" when asked
+
 ## How to play
 
 - Press **Play** on the main menu. The menu shows your current high score.
