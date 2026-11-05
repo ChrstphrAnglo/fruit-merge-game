@@ -1,5 +1,7 @@
 # Fruit Merge
 
+[![CI](https://github.com/ChrstphrAnglo/fruit-merge-game/actions/workflows/ci.yml/badge.svg)](https://github.com/ChrstphrAnglo/fruit-merge-game/actions/workflows/ci.yml)
+
 A physics-based fruit merging puzzle game for desktop and Android: drop fruits, match pairs, and score as high as you can before the clock runs out.
 
 The game was presented at the National University tech fiesta.
